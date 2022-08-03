@@ -1,0 +1,17 @@
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.example.myapplication.MainActivity">
+    <item  android:id="@+id/Home"
+        android:icon="@android:drawable/ic_btn_speak_now"
+        app:showAsAction="always"
+        android:title="@string/Home"/>
+    <item  android:id="@+id/Notification"
+        android:title="@string/Notification"/>
+    <item android:id="@+id/MyPerfil"
+        android:title="@string/MyPerfil"/>
+    <item  android:id="@+id/Configuration"
+        android:title="@string/Configuration"/>
+    <item android:id="@+id/LogOut"
+        android:title="@string/LogOut"/>
+</menu>

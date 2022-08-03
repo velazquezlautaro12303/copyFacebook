@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="NameUser">NameUser</string>
+    <string name="DateTime">DateTime</string>
+    <string name="Description">Description</string>
+    <string name="Like">Me Gusta</string>
+    <string name="Comment">Comentar</string>
+    <string name="CommentHere">Comentar Aquí</string>
+    <string name="Share">Compartir</string>
+    <string name="CountShare">veces compartidos</string>
+    <string name="CountComment">comentarios</string>
+    <string name="CountLike">CountLike</string>
+    <string name="Configuration">Configuracion</string>
+    <string name="LogOut">Salir</string>
+    <string name="MyPerfil">Mi Perfil</string>
+    <string name="Home">Inicio</string>
+    <string name="Notification">Notificaciones</string>
+    <string name="Message">Escribe tu comentario aquí</string>
+    <string name="Send">Enviar</string>
+</resources>
